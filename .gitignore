@@ -1,0 +1,10 @@
+# fetched dependency (patch_pl_getlangcode.ps1 downloads Mono.Cecil here)
+.cecil/
+
+# byte-level working files from the analysis session
+*.bin
+*.zip
+*.nupkg
+*.candid
+*.bak*
+__pycache__/
